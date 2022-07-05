@@ -204,13 +204,12 @@ button:active button:hover .btn:active,
 }
 
 .site-main {
-    height: 100%;
-    display: flex;
-    align-items: center;
+    padding-top: 10rem;
 }
 
 @media (max-width: 990px) {
     .site-main {
+        padding: 0;
         margin: 5rem 0;
     }
 
